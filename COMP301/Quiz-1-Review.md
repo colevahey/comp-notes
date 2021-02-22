@@ -4,8 +4,8 @@
 Automate the build process for different programming
 languages  
 We are using Maven  
-Terms to know: POM file, dependency, archetype, artifact,
-lifecycle  
+Terms to know: [POM file, dependency, archetype, artifact,
+lifecycle](https://github.com/cvunc/comp-notes/blob/main/COMP301/012721.md#maven)  
 
 #### L1 - Git  
 On the tar branch, how do I switch to the heels branch?  
