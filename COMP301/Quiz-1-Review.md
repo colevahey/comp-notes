@@ -8,7 +8,7 @@ Terms to know: POM file, dependency, archetype, artifact,
 lifecycle  
 
 #### L1 - Git  
-On the heels branch, how do I switch to the heels branch?  
+On the tar branch, how do I switch to the heels branch?  
 `git checkout heels`  
 I want to update my code on github, what do I do?  
 `git add .; git commit -m "commit"; git push origin master`  
