@@ -77,7 +77,7 @@ multiple different (related) entities
 Allows programmers to group different entities together and
 treat them with different contexts  
 
-#### L4 - Final Keyword  
+#### L4 - (Final Keyword)[https://github.com/cvunc/comp-notes/blob/9a199fad6cb2a4b0711f0c92e11b190a8b9fd840/COMP301/021721.md#the-final-keyword]  
 *What does the final keyword do?*  
 Indicates that a class, member, or variable is immutable  
 **Class** - Indicates no subclasses  
